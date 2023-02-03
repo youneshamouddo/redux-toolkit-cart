@@ -1,0 +1,129 @@
+{
+    "books":[
+        {
+        "title":"1984",
+        "author":"George Orwell",
+        "price":30,
+        "isbn":21212121,
+        "discount": 10,
+        "prePrice":40,
+        "image" : "bookTest.jpg",
+        "type":"philosophy"
+    },
+        {
+        "title":"Animal Farm",
+        "author":"George Orwell",
+        "price":25,
+        "isbn":212121444,
+        "discount": 12,
+        "prePrice":30,
+        "image" : "AnimalF.jpg",
+        "type" : "novel"
+    },
+    {
+        "title":"Crime and Punishment",
+        "author":"Fiodor Dostoïevski",
+        "price":20,
+        "isbn":212121484,
+        "discount": 15,
+        "prePrice":35,
+        "image" : "crimeAndP.jpg",
+        "type" : "novel"
+    },
+    {
+        "title":"Born Believers",
+        "author":"Justin Barrett",
+        "price":27,
+        "isbn":2121285484,
+        "discount": 17,
+        "prePrice":39,
+        "image" : "bornB.jpg",
+        "type" : "novel"
+    },
+    {
+        "title":"Fifty Shades",
+        "author":"E L James",
+        "price":20,
+        "isbn":21274285484,
+        "discount": 12,
+        "prePrice":30,
+        "image" : "fiftys.jpg",
+        "type" : "novel"
+    },
+    {
+        "title":"harryPoter",
+        "author":"J.K ROWLING",
+        "price":20,
+        "isbn":21217428455484,
+        "discount": 12,
+        "prePrice":30,
+        "image" : "harryPoter.jpg",
+        "type" : "novel"
+    },
+    {
+        "title":"The Audacity Of Hope",
+        "author":"Barack obama",
+        "price":19,
+        "isbn":154284554484,
+        "discount": 12,
+        "prePrice":35,
+        "image" : "barackO.jpg",
+        "type" : "novel"
+    },
+    {
+        "title":"Les Miserables",
+        "author":"Victor hugo",
+        "price":25,
+        "isbn":21014284554484,
+        "discount": 10,
+        "prePrice":35,
+        "image" : "lesM.jpg",
+        "type" : "novel"
+    },
+    {
+        "title":"The devine reality",
+        "author":"Hamza tzortizs",
+        "price":25,
+        "isbn":24542845544084,
+        "discount": 10,
+        "prePrice":35,
+        "image" : "thed.jpg",
+        "type" : "novel"
+    },
+    {
+        "title":"catching fire",
+        "author":"suzan collins",
+        "price":25,
+        "isbn":24544655544084,
+        "discount": 10,
+        "prePrice":35,
+        "image" : "catchingF.jpg",
+        "type" : "novel"
+    },
+    {
+        "title":"i am malala",
+        "author":"malala yousafzai",
+        "price":25,
+        "isbn":44655454544084,
+        "discount": 10,
+        "prePrice":35,
+        "image" : "malala.jpg",
+        "type" : "novel"
+    },
+    {
+        "title":"stephn king",
+        "author":"fairy tale",
+        "price":40,
+        "isbn":4464545465444084,
+        "discount": 15,
+        "prePrice":50,
+        "image" : "stephenKng.jpg",
+        "type" : "novel"
+    }
+
+    
+
+
+
+]
+    }
